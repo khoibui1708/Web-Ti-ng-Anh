@@ -1,0 +1,11 @@
+.Text{
+    color: red;
+    margin-bottom: 300px;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
